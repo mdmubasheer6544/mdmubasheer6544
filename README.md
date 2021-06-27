@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Life is a learning experience, only if you learn.
 - 🎓 &nbsp; Studying Master Of Computer Application at SRTM University Nanded.
 - 🌱 &nbsp; Learning more about Full-Stack Devlopment.
-- ✍️ &nbsp; I’m currently learning ReactJs & Node.Js.
+- ✍️ &nbsp; I’m currently learning ReactJs & NodeJs.
 
 
 

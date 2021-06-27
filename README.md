@@ -42,8 +42,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="linkedin.com/in/mohammad-mubasheer-8251a7175"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Md Mubaheer-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mdmubasheer-blue?style=flat-square&logo=instagram"></a>
+<a href="linkedin.com/in/mohammad-mubasheer-8251a7175"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Md Mubasheer-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/mdmubasheer/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mdmubasheer-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:mdmubasheer6544@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mdmubasheer6544-blue?style=flat-square&logo=gmail"></a>
 </p>
 

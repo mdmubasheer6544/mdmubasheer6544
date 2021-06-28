@@ -6,6 +6,8 @@
 - 🎓 &nbsp; Studying Master Of Computer Application at SRTM University Nanded.
 - 🌱 &nbsp; Learning more about Full-Stack Devlopment.
 - ✍️ &nbsp; I’m currently learning ReactJs & NodeJs.
+- 💬 Ask me about JavaScript.
+- 😄 Pronouns: him/he
 
 
 
